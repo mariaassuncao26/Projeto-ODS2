@@ -243,4 +243,7 @@
     font-size: 96px; 
     line-height: 125px;
     color: #FFFFFF; } 
-  .link{ color: #E8BD28; rotate: 3000px; }
+  .link{ 
+    color: #E8BD28;
+    rotate: 3000px; 
+  }
